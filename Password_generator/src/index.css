@@ -1,0 +1,12 @@
+@import "tailwindcss";
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+.copy-btn:hover{
+color: black;
+background-color: bisque;
+transition: 0.5s linear;
+}
+
