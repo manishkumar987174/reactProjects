@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0f0f0f;
+    font-family: Arial, sans-serif;
+}
+
+input,button{
+    padding: 7px;
+}
+
